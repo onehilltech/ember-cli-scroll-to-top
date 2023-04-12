@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-scroll-to-top",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple add-on for adding scroll-to-top behavior to your Ember app.",
   "keywords": [
     "ember-addon",
