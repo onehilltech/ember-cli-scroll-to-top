@@ -1,12 +1,14 @@
 {
   "name": "ember-cli-scroll-to-top",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Simple add-on for adding scroll-to-top behavior to your Ember app.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "scroll",
+    "scroll-to-top"
   ],
   "repository": "",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "author": "",
   "directories": {
     "doc": "doc",
